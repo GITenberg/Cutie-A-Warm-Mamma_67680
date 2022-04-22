@@ -1,5 +1,8 @@
 _repo: Cutie-A-Warm-Mamma_67680
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67680-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hecht, Ben
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9822
     wikipedia: https://en.wikipedia.org/wiki/Maxwell_Bodenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67680#Cutie-A-Warm-Mamma
 gutenberg_issued: '2022-03-21'
 identifiers:
   gutenberg: '67680'
